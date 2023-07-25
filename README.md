@@ -1,3 +1,5 @@
+This fork contains fix for https://github.com/Mawi137/ngx-image-cropper/issues/561
+
 # Image cropper for Angular
 ![example](https://github.com/Mawi137/ngx-image-cropper/raw/master/cropper-example.png)
 
